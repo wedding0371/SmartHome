@@ -1,7 +1,7 @@
 # SmartHome
 智能家居diy解决方案，包含以下四点工作
 * raspberry的配置
-  domoticz主体安装
+  ** domoticz主体安装
   homebridge安装
   mqtt服务的配置
 * esp8266子设备开发
