@@ -1,4 +1,4 @@
-# SmartHome
+# 智能家居
 智能家居diy解决方案，包含以下四点工作
 ## raspberry的配置
   * domoticz主体安装
